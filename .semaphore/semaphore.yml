@@ -6,7 +6,7 @@ version: v1.0
 # them. For example, you might have a build phase and a delivery phase.
 # For more information on promotions, see:
 # https://docs.semaphoreci.com/article/67-deploying-with-promotions
-name: Tallest Towers
+name: Tallest Towers II
 
 # The agent defines the environment in which your CI runs. It is a combination
 # of a machine type and an operating system image. For a project built with
